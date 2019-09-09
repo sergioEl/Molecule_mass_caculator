@@ -1,2 +1,2 @@
 ## Calculating mass of chemical atoms
-# Implementing iterrator.
+* Implementing iterrator.
